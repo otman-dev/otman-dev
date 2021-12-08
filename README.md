@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img href="./banner2.png" alt="my banner">
+<img href="banner2.png" alt="my banner">
 
 <!--
 **otman-dev/otman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
