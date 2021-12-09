@@ -18,7 +18,7 @@ I would love to share all i Know about C PYTHON JS PHP also ARDUINO HTML and CSS
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can support me , a follow to my soccial networks feels . 🙏🏻
+You can support me , if follow all my social networks easy and there is no better  . 🙏🏻
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
