@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](banner2.png)
+<!--![](banner2.png)-->
 ![](banner3V.mp4)
 
 <!--
