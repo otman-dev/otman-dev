@@ -1,10 +1,6 @@
 ### Hi there 👋
 <!--![](banner2.png)-->
-
-
-
-https://user-images.githubusercontent.com/92758198/145458850-e4b13c44-7ebd-49c9-a813-8d14e3063467.mp4
-
+![banner3V_SparkVideo](https://user-images.githubusercontent.com/92758198/145459838-869a3610-e494-49bf-85eb-865f0f34cab3.gif)
 
 <!--
 **otman-dev/otman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
