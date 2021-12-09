@@ -1,0 +1,25 @@
+
+<!--
+**otman-dev/otman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+
+
+- 🌱 I’m currently learning ...
+i m loooking forward to learn JS frameworks and Python Wonderful Utilities and librarys While using github, for all who s intrested for further Information about that I invite you to check my repositories !!
+and for all who are on an advance level, feel free to join and check my activities and i ll be greatfull for any suggestions !!
+- 👯 I’m looking to collaborate on ... 
+i would love some company From people with my same levela nd same intrests to upgrade together while working remotely .
+- 🤔 I’m looking for help with ...
+
+  i would love some advice in JS Frameworks from advanced users of the technology to Upgrade my work flow and my production !!!
+
+- 💬 Ask me about ...
+I would love to share all i Know about C PYTHON JS also ARDUINO HTML and CSS !
+
+- 📫 How to reach me: ... ig twitter fb linkedin 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

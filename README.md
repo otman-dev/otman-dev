@@ -2,21 +2,13 @@
 <!--![](banner2.png)-->
 ![banner3V_SparkVideo](https://user-images.githubusercontent.com/92758198/145459838-869a3610-e494-49bf-85eb-865f0f34cab3.gif)
 
-<!--
-**otman-dev/otman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱I m looking forward to learn JS frameworks and Python Wonderful Utilities and librarys While using github, for all who s intrested for further Information about that I invite you to check my repositories !!
+and for all who are on an advance level, feel free to join and check my activities and i ll be greatfull for any suggestions !!
 
-Here are some ideas to get you started:
+- 👯I would love some company From people with my same level and same intrests to collaborate and upgrade together while working remotely .
 
-- 🔭 I’m currently working on ...
-i m loooking forward to learn new things such as js frameworks and python wonderful utilities all this using github so for all people who wants to start doing the same thing feel free to check all my repositories that s wht i m making my learning repositorys public, and all who are way ahead than me in all my leaning processes feel free to join and check ùmy activities and i ll be greatfull for any suggestion 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... 
-
-- 🤔 I’m looking for help with ...
-i need help in learning frameworks while using github utilities so for that i would love some company either people with my same level to upgrade together while working remotely or advanced users of the technology to advice me in anything the might make my work flow or my production better  
 - 💬 Ask me about ...
-i can be helpfull in any thing that involves basic knowledge and syntax of some very known programing languages such as : C PYTHON also ARDUINO HTML and CSS 
-- 📫 How to reach me: ... ig twitter fb linkedin 
+I would love to share all i Know about C PYTHON JS PHP also ARDUINO HTML and CSS !
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
