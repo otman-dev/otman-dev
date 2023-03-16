@@ -14,13 +14,12 @@ and for all who are on an advance level, feel free to join and check my activiti
 - 👯I would love some company From people with my same level and same intrests to collaborate and upgrade together while working remotely .
 
 - 💬 Ask me about ...
-I would love to share all i Know about C PYTHON JS PHP also ARDUINO HTML and CSS !
+I would love to share all i Know about C C++ PYTHON JS PHP also ARDUINO HTML and CSS !
 
 ## 🤜🏻🤛🏻 Support Me
 
 You can support me , if follow all my social networks easy and there is no better  . 🙏🏻
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I m having fun even when code makes me mad
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=otman-dev&show_icons=true&theme=radical">
