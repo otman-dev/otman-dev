@@ -35,7 +35,7 @@ Recent software engineer graduate with formal engineering credentials, passionat
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otman-dev&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=otman-dev&theme=radical" alt="GitHub Streak">
 </p>
 
 <p align="center">
